@@ -12,12 +12,6 @@
 ⚛️ **React.js**: Building efficient, reusable UI components and managing state for seamless user experiences.<br>
 -  📫 How to reach me: **itssurendar98@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="http://www.linkedin.com/in/surendartt" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-</a>
-
 <h3 align="left">Languages and Tools:</h3>
 <img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-html-computer-science-flaticons-lineal-color-flat-icons.png" alt="external-html-computer-science-flaticons-lineal-color-flat-icons"/>
 <img width="64" height="64" src="https://img.icons8.com/external-flaticons-flat-flat-icons/64/external-css-web-development-flaticons-flat-flat-icons.png" alt="external-css-web-development-flaticons-flat-flat-icons"/>
